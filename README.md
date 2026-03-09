@@ -8,4 +8,4 @@
 ## Como Rodar
 
 ```bash
-python adivinhacao.py
+python adivinhar.py
