@@ -1,6 +1,8 @@
 # Jogo da Adivinhação
 
 > Um jogo interativo para praticar loops e condicionais
+
+## Sobre:
 > Jogo onde você tenta adivinhar um número entre 1 e 30.
 
 ## Como Rodar
